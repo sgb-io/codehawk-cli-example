@@ -1,0 +1,5 @@
+{
+    "skipDirectories": [
+        "/my-nextjs-app/node_modules"
+    ]
+}
