@@ -1,6 +1,6 @@
 # Codehawk CLI Example
 
-This shows an example way to use the Codehawk CLI. In this example, we analyse the nextjs starter app.
+This shows an example way to use the Codehawk CLI. In this example, we analyse the Next.js starter app.
 
 1. `npm install`
 2. `npm run codehawk`

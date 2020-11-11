@@ -2,14 +2,19 @@
   "name": "codehawk-cli-example",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "codehawk": "codehawk my-nextjs-app"
+    "build": "next build",
+    "codehawk": "codehawk src",
+    "dev": "next dev",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "codehawk-cli": "^6.0.1"
+    "codehawk-cli": "^6.0.2",
+    "next": "^10.0.1",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
   }
 }
