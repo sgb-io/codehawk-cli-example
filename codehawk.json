@@ -1,0 +1,5 @@
+{
+    "skipDirectories": [
+        "/src/will-get-ignored"
+    ]
+}
