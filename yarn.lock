@@ -1553,6 +1553,11 @@ backbone-esnext-events@<1.0.0:
   dependencies:
     babel-runtime "^6.0.0"
 
+badgen@^3.2.2:
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/badgen/-/badgen-3.2.2.tgz#7556b520055c4952ee46229c57d7a1cc71a85748"
+  integrity sha512-MfBNhOzp+qbTg/3BAeaK1g+VE3uZ0CRfqMyrfyI3JUBz7b+DwxrZbYQdz5JQnibRih9YOVzXuVJl3A3xaWXfFQ==
+
 balanced-match@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-1.0.0.tgz#89b4d199ab2bee49de164ea02b89ce462d71b767"
@@ -1978,13 +1983,14 @@ code-point-at@^1.0.0:
   resolved "https://registry.yarnpkg.com/code-point-at/-/code-point-at-1.1.0.tgz#0d070b4d043a5bea33a2f1a40e2edb3d9a4ccf77"
   integrity sha1-DQcLTQQ6W+ozovGkDi7bPZpMz3c=
 
-codehawk-cli@^6.0.2:
-  version "6.0.2"
-  resolved "https://registry.yarnpkg.com/codehawk-cli/-/codehawk-cli-6.0.2.tgz#6f93b0508ba84408636c4bbe7757f04f51194677"
-  integrity sha512-gWh9t1du7SfFRMcBVcPJ6hCjwafu88+JReYlGwvM/qTdtCcihDFz/wE5AcudWD9R0C9wT1BVVf7IkRjoaLoRtQ==
+codehawk-cli@^7.1.2:
+  version "7.1.2"
+  resolved "https://registry.yarnpkg.com/codehawk-cli/-/codehawk-cli-7.1.2.tgz#b7b3759bf58a6ddec210c807e4d74a612db95098"
+  integrity sha512-4MSbqUdIRxSAla/b7c4iT44bDD6io5EgOtp1tXgh3OwXOAhyVZmzsXmD3CJZ/aYMCgPJbNQhPhHdY8GZGDhWaA==
   dependencies:
     "@babel/core" "^7.7.2"
     "@babel/plugin-transform-typescript" "^7.7.2"
+    badgen "^3.2.2"
     flow-remove-types "^2.111.3"
     is-dotdir "^1.0.1"
     is-dotfile "^2.0.0"

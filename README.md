@@ -18,3 +18,10 @@ Top 4 files
 | hello.js                       | 6          | 1                      | 91.93 OK                           |
 
 ```
+
+## Badges
+
+Here are the badges for this project:
+
+![Average Maintainability](generated/avg-maintainability.svg)
+![Worst Maintainability](generated/worst-maintainability.svg)
