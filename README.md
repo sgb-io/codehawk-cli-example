@@ -19,6 +19,10 @@ Top 4 files
 
 ```
 
+## Minimum Threshold
+
+See the [Example PR](https://github.com/sgb-io/codehawk-cli-example/pull/7) for how you can use the `minimumThreshold` option in your CI.
+
 ## Badges
 
 Here are the badges for this project:
