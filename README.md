@@ -2,8 +2,8 @@
 
 This shows an example way to use the Codehawk CLI. In this example, we analyse the Next.js starter app.
 
-1. `npm install`
-2. `npm run codehawk`
+1. `yarn`
+2. `yarn codehawk`
 3. You will get some output:
 
 ```markdown
