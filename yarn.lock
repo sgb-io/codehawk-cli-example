@@ -1983,10 +1983,10 @@ code-point-at@^1.0.0:
   resolved "https://registry.yarnpkg.com/code-point-at/-/code-point-at-1.1.0.tgz#0d070b4d043a5bea33a2f1a40e2edb3d9a4ccf77"
   integrity sha1-DQcLTQQ6W+ozovGkDi7bPZpMz3c=
 
-codehawk-cli@^8.0.3:
-  version "8.0.3"
-  resolved "https://registry.yarnpkg.com/codehawk-cli/-/codehawk-cli-8.0.3.tgz#2e282dabd2e19f867fc3415023340a7872e185c1"
-  integrity sha512-95+4cMMf/ME3dCitTcI/EW7/KmrGSMcTWeK5r5njoNM762B2RsjX/Men+UlEngoSti2DCI3b6tnGZLTgQMim2w==
+codehawk-cli@^8.1.0:
+  version "8.1.0"
+  resolved "https://registry.yarnpkg.com/codehawk-cli/-/codehawk-cli-8.1.0.tgz#527e13bc6ac1d2388b2a3f12e035a3befd20aa27"
+  integrity sha512-m5m8I71UGYyTVxwBzy96bZB2kHl0FVQ0dmzlFttM/yHOZ9qZP+fLELOFTOsuV3IB80INOPvuyHfHXAMAjevDaQ==
   dependencies:
     "@babel/core" "^7.7.2"
     "@babel/plugin-transform-typescript" "^7.7.2"
