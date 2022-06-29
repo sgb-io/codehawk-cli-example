@@ -1,6 +1,4 @@
 {
-    "skipDirectories": [
-        "/src/will-get-ignored"
-    ],
-    "minimumThreshold": 50
+  "skipDirectories": ["/src/will-get-ignored/"],
+  "minimumThreshold": 50
 }
